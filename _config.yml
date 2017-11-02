@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: GloryVK
 description: Расширение позволяет кардинально изменить внешний вид и функционал страницы ВКонтакте по вашему вкусу.
 layout: home
+show_downloads: true
