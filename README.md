@@ -1,6 +1,6 @@
 # GloryVK - новый взгляд на социальную сеть В Контакте.
 
-![Gloryvk](https://pp.userapi.com/c841326/v841326704/2dbf5/OzrKHIaBM1U.jpg)
+![Gloryvk](https://pp.userapi.com/c840135/v840135161/3858c/LS6FV_XmBNU.jpg)
 
 Расширение позволяет кардинально изменить внешний вид и функционал страницы по вашему вкусу.
 
