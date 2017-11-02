@@ -1,0 +1,17 @@
+{
+	"users": [{
+		"fullname": "Thecurseof  Theghost",
+		"url": "thecurseof_theghost",
+		"id": 174422676,
+		"pay": 1,
+		"pay_ok": 1,
+		"pay_date": "02.11.2017"
+	}, {
+		"fullname": "Dmitry  Lelyavin",
+		"url": "thehellofuck",
+		"id": 174422676,
+		"pay": 1,
+		"pay_ok": 1,
+		"pay_date": 24
+	}]
+}
