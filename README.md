@@ -1,4 +1,5 @@
 # GloryVK - новый взгляд на социальную сеть В Контакте.
+![Gloryvk](https://vk.com/photo-97584515_456239018)
 Расширение позволяет кардинально изменить внешний вид и функционал страницы по вашему вкусу.
 
 Вот уже долгое время с момента создания расширения GloryVK, мы всё время старались развивать и улучшать расширение по максимуму, чтобы создать максимально комфортный сайт для просмотра.
@@ -10,8 +11,6 @@
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
 If you want to embed images, this is how you do it:
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater!
 
