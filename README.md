@@ -5,7 +5,13 @@
 
 Расширение позволяет кардинально изменить внешний вид и функционал страницы по вашему вкусу.
 
+# Установка
 
+## Для установки расширения для браузеров Chrome, Яндекс Браузер и Амиго
+Перейдите в [интернет-магазин Chrome] (https://chrome.google.com/webstore/detail/gloryvk/mhemhobdiccbiakpfgibnijghihadjei?hl=ru) и установите расширение.
+
+## Для установки расширения на браузер Opera
+Для установки расширения из Google Store необходимо установить расширение [Download Chrome Extension] (https://addons.opera.com/ru/extensions/details/download-chrome-extension-9/?display=en). Далее выполните установку как для Chrome.
 
 ## Поддержка языков
 
@@ -13,7 +19,7 @@
 * English
 * Deutsch - скоро
 
-## Расширение тестировалось на следующих браузерах:
+## Расширение тестировалось на следующих браузерах
 
 * Google Chrome
 * Opera
