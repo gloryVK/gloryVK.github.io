@@ -1,6 +1,3 @@
 {
-    "version": "1.0",
-    "build": "1610031",
-    "release": "beta",
-    "fixVersion": true
+    "version": "1.4.1"
 }
