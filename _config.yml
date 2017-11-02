@@ -4,3 +4,8 @@ description: Расширение позволяет кардинально из
 layout: home
 avatar: https://pp.userapi.com/c841326/v841326704/2dbf5/OzrKHIaBM1U.jpg
 show_downloads: true
+
+# About/contact
+author:
+  name:       Author name
+  url:  
